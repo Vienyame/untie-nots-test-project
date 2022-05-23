@@ -110,7 +110,7 @@ exports.peoples = [
     "manager": "Erika",
     "managerId": "5763cd4d3b57c672861bfa1f",
     "rule": "admin",
-    "password": "admin2"
+    "password": "viewer2"
   },
   {
     "id": "5763cd4d3b57c672861bfa1f",
@@ -147,6 +147,6 @@ exports.peoples = [
     "manager": "Mercedes",
     "managerId": "5763cd4d979b62a209809160",
     "rule": "",
-    "password": "viewer2"
+    "password": "viewer3"
   }
 ]
