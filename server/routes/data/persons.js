@@ -8,7 +8,7 @@ exports.peoples = [
     "lastname": "Woodard",
     "entity": "BIOSPAN",
     "gender": "",
-    "email": "Leanne.Woodard@BIOSPAN.com",
+    "email": "leanne.woodard@BIOSPAN.com",
     "skills": [
       "pariatur",
       "ipsum",
@@ -45,7 +45,7 @@ exports.peoples = [
     "lastname": "Salinas",
     "entity": "METROZ",
     "gender": "",
-    "email": "Castaneda.Salinas@METROZ.com",
+    "email": "castaneda.salinas@METROZ.com",
     "skills": [
       "exercitation",
       "consectetur",
@@ -82,7 +82,7 @@ exports.peoples = [
     "lastname": "Donovan",
     "entity": "PEARLESSA",
     "gender": "",
-    "email": "Phyllis.Donovan@PEARLESSA.com",
+    "email": "phyllis.donovan@PEARLESSA.com",
     "skills": [
       "fugiat",
       "deserunt",
@@ -119,7 +119,7 @@ exports.peoples = [
     "lastname": "Guzman",
     "entity": "CIRCUM",
     "gender": "",
-    "email": "Erika.Guzman@CIRCUM.com",
+    "email": "erika.guzman@CIRCUM.com",
     "skills": [
       "aliquip",
       "do",

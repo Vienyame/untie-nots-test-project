@@ -14,12 +14,12 @@ After cloning the repository, run `npm install` in order to install all applicat
 ### Login
 For logging to the app, we have 4 users:
 * #### 1 user with admin rule:
-    Castaneda.Salinas@METROZ.com/admin1
+    castaneda.salinas@METROZ.com/admin1
 
 * #### 2 users with viewer rule
-    Leanne.Woodard@BIOSPAN.com/viewer1
+    leanne.woodard@BIOSPAN.com/viewer1
 
-    Phyllis.Donovan@PEARLESSA.com/viewer2
+    phyllis.donovan@PEARLESSA.com/viewer2
 
 * #### 1 user with no rule
-    Erika.Guzman@CIRCUM.com/viewer3
+    erika.guzman@CIRCUM.com/viewer3
