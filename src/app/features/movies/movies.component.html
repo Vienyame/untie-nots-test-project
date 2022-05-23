@@ -1,0 +1,23 @@
+<div class="content">
+  <div fxLayout="row wrap" fxLayoutGap="16px grid">
+    <div fxFlex="20%" fxFlex.xs="50%" fxFlex.sm="25%" *ngFor="let movie of movies">
+      <mat-card class="mat-elevation-z4" routerLink="/movies/details/{{movie.id}}">
+        <mat-card-content>
+          <img mat-card-image src="{{movie.posterUrl}}" class="movie-poster" alt="{{movie.title}}"/>
+        </mat-card-content>
+        <mat-card-footer>
+          <div class="description">
+            {{movie.plot}}
+          </div>
+        </mat-card-footer>
+      </mat-card>
+    </div>
+  </div>
+  <mat-card *ngIf="noResult">
+    <mat-card-content>
+      <mat-card-header>
+        <h2>No movies found...</h2>
+      </mat-card-header>
+    </mat-card-content>
+  </mat-card>
+</div>
